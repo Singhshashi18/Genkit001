@@ -51,7 +51,7 @@ export const recipeGeneratorFlow = ai.defineFlow(
 
     return output;
   }
-);
+); 
 
 // Run the flow
 async function main() {

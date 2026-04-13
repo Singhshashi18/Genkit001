@@ -9,7 +9,7 @@ const ai = genkit({
   model: googleAI.model('gemini-2.5-flash', {
     temperature: 0.8
   }),
-});
+}); 
 
 // Define input schema
 const RecipeInputSchema = z.object({

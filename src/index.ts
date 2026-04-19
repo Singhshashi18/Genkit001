@@ -2,7 +2,7 @@
 import { googleAI } from '@genkit-ai/googleai';
 import { genkit, z } from 'genkit';
 import 'dotenv/config';
-
+ 
 // Initialize Genkit with the Google AI plugin
 const ai = genkit({
   plugins: [googleAI()],

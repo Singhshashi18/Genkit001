@@ -1,5 +1,5 @@
-        .env
 node_modules
 lib.js
 lib
-user.ts
+user.ts 
+config.bat

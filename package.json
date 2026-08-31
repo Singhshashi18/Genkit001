@@ -13,11 +13,12 @@
   "type": "module",
   "devDependencies": {
     "tsx": "^4.20.5",
-    "typescript": "^5.9.2" 
+    "typescript": "^5.9.2"
   },
   "dependencies": {
     "@genkit-ai/googleai": "^1.18.0",
     "dotenv": "^17.2.2",
-    "genkit": "^1.18.0"
+    "genkit": "^1.18.0",
+    "node-fetch": "^3.3.2"
   }
 }
